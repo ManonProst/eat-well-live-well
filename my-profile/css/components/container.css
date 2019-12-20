@@ -1,0 +1,14 @@
+.container {
+	width: 700px;
+	margin: 0 auto;
+	background-color: rgb(215, 215, 222);
+}
+
+.container h1, h2 {
+background-image:  url(../../images/background.jpeg);
+background-size: cover;
+background-position: center;
+background-opacity: 0.3;
+padding: 77px 10px;
+margin: 0px;
+}
